@@ -1,5 +1,5 @@
 # Exercise-01d-Inky-Misc
 
-# Your Name
+# Drew Stoner
 
-# Your Github username
+# drewstoner559
